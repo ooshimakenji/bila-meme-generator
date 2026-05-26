@@ -2,7 +2,7 @@
 
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-bundler-646CFF?logo=vite&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=black) ![Licença](https://img.shields.io/badge/licença-MIT-green)
 
-Gerador de memes com React. Escolha um template, adicione texto no topo e na base e crie seu meme em segundos.
+Gerador de memes desenvolvido com React. Escolha um modelo, insira texto na parte superior e inferior da imagem e crie seu meme em segundos.
 
 ## Funcionalidades
 
